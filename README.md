@@ -1,10 +1,10 @@
-## É um prazer te receber aqui! 🍀
+### É um prazer te receber aqui! 🍀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiano-mariath-gallez-06a598196/)
 
-### **Tecnologias BIM ao meu favor:**
-#### REVIT - Navisworks - Autocad - Dynamo4Revit
-### 💰
+## **Tecnologias BIM ao meu favor:**
+### REVIT - Navisworks - Autocad - Dynamo4Revit
+## 💰
 
 ### Em aprendizado e desenvolvimento:
 <div style="display: inline_block"><br/>
@@ -22,9 +22,9 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div><br/>
 
- ## Links úteis:
+ ### Links úteis:
  - [Doc RevitAPI - Documentação da Api do Revit](https://www.revitapidocs.com/)<br/>
  - [Dynamo - Sobre o Dynamo](https://primer.dynamobim.org/pt-br/)<br/>
 
-Em construção...
+#### Em construção...
 </div><br/>
