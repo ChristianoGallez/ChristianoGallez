@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Obrigado por estar no meu perfil! 🍀
+## É um prazer te receber aqui! 🍀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiano-mariath-gallez-06a598196/)
 
