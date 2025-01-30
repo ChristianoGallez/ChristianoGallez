@@ -26,6 +26,7 @@
  - [Doc RevitAPI - Documentação da Api do Revit](https://www.revitapidocs.com/)<br/>
  - [Dynamo - Sobre o Dynamo](https://primer.dynamobim.org/pt-br/)<br/>
  - [RevitLookup](https://github.com/jeremytammik/RevitLookup/tree/master)<br/>
+ - [Libs for CPython - REVIT](https://github.com/DynamoDS/Dynamo/wiki/Customizing-Dynamo's-Python-3-installation)<br/>
 
 #### Em construção...
 </div><br/>
