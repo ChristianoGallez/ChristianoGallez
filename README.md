@@ -25,6 +25,8 @@
  ### Links úteis:
  - [Doc RevitAPI - Documentação da Api do Revit](https://www.revitapidocs.com/)<br/>
  - [Dynamo - Sobre o Dynamo](https://primer.dynamobim.org/pt-br/)<br/>
+ - [RevitLookup]
+(https://github.com/jeremytammik/RevitLookup/tree/master)<br/>
 
 #### Em construção...
 </div><br/>
